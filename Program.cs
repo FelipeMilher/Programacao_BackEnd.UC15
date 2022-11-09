@@ -212,16 +212,11 @@ do
 
 
             //             novaPf.Nome = "Felipe";
-<<<<<<< HEAD
-            //             novaPf.dataNasc = new DateTime(2003, 08, 04);
-            //             novaPf.Cpf = "40028922";
-=======
             //             novaPf.dataNasc = new DateTime(2003, 08, 24);
             //             novaPf.Cpf = "0984322421";
->>>>>>> 863edbf150909189af15794d88a9d7695e6a5ad7
             //             novaPf.Rendimento = 3500.5f;
 
-            //             novoEndPf.logradouro = "Palmeiras não tem mundial";
+            //             novoEndPf.logradouro = "Palmeiras nao tem mundial";
             //             novoEndPf.numero = 51;
             //             novoEndPf.complemento = "parque das nações";
             //             novoEndPf.endComercial = true;
