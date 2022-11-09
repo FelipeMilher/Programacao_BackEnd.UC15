@@ -211,13 +211,13 @@ do
 
 
 
-            //             novaPf.Nome = "caue";
+            //             novaPf.Nome = "Felipe";
             //             novaPf.dataNasc = new DateTime(2003, 08, 24);
             //             novaPf.Cpf = "0984322421";
             //             novaPf.Rendimento = 3500.5f;
 
-            //             novoEndPf.logradouro = "rua treze";
-            //             novoEndPf.numero = 162;
+            //             novoEndPf.logradouro = "Palmeiras não tem mundial";
+            //             novoEndPf.numero = 51;
             //             novoEndPf.complemento = "parque das nações";
             //             novoEndPf.endComercial = true;
 
